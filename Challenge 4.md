@@ -6,7 +6,6 @@
 2. Ensure any user can read and write it
 
 ==> chmod a+rw newfile
-    
     stat newfile
     
 3. Compress the file using tar or zip
